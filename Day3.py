@@ -13,6 +13,7 @@ else:
     print('false')
 
 
+
 def makemap(line):
     aline = line.strip()
     fullline = aline * 323 * 3
